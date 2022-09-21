@@ -12,6 +12,7 @@
     "solidity-coverage": "^0.7.18"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
     "dotenv": "^14.2.0",
     "prettier-plugin-solidity": "^1.0.0-beta.19"
   },
